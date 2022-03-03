@@ -1,0 +1,6 @@
+		 Vokaali	Konsonantti	Muu
+Vokaali 	| 0,209		0,646		0,145	|
+Konsonantti 	| 0,670		0,220		0,110	|
+Muu		| 0,105		0,392		0,503	|
+
+Todennäköisyysvektori: (0,380,0,417,0,203).
